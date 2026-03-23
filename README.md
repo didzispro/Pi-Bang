@@ -16,8 +16,6 @@ Difficulty settings (Easy, Medium, Hard)
 Pause menu
 Settings with volume control
 
-📸 Screenshots
-
 ![MainMenu](Screenshot%20MainMenu.png)
 
 Gameplay
@@ -37,6 +35,9 @@ Arrow Down = Move Down
 Pause:
 
 ESC = Pause/Resume
+
+![alt text](Screenshot-MainMenu.png)
+
 
 🛠️ Built With
 
