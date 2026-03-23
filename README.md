@@ -50,7 +50,7 @@ Universal Render Pipeline (URP)
 Play on itch.io
 Play on GameJolt
 
-![GamePlay](Screenshot%20GameOver.png)
+![GamePlay](Screenshot%20GamePlay.png)
 
 🎓 What I Learned
 
