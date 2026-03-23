@@ -1,9 +1,11 @@
 # Pi-Bang
 
 🏓 Pi Bang
+
 My first Unity 2D Pong game!
 
 🎮 Features
+
 Classic Pong gameplay
 Glow effects and particle effects
 Ball trail
@@ -16,9 +18,10 @@ Settings with volume control
 
 📸 Screenshots
 
-MainMenu.png
+Main Menu
 
 🎯 Controls
+
 Player 1:
 
 W = Move Up
@@ -30,22 +33,23 @@ Arrow Down = Move Down
 Pause:
 
 ESC = Pause/Resume
+
 🛠️ Built With
+
 Unity 2022.x
 C#
 Universal Render Pipeline (URP)
 
 📥 Play the Game
 
-itch.io Link: https://didzisprocoder.itch.io/pi-bang-neon-edition
-
-GameJolt Link: https://gamejolt.com/games/Pi-Bang-Neon-Effect/1058642
+Play on itch.io
+Play on GameJolt
 
 🎓 What I Learned
+
 This is my first game! I learned:
 
 Unity 2D physics
 C# scripting
 Visual effects (glow, particles, trails)
 Cross-platform building
-Publishing games
