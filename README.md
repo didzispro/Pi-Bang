@@ -36,7 +36,7 @@ Pause:
 
 ESC = Pause/Resume
 
-![GameOver](Screenshot GameOver.png)
+![GameOver](Screenshot%20GameOver.png)
 
 
 🛠️ Built With
