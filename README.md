@@ -18,7 +18,7 @@ Settings with volume control
 
 📸 Screenshots
 
-Main Menu
+This PC/Pictures/Screenshot MainMenu.png
 
 Gameplay
 
