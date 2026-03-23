@@ -36,7 +36,7 @@ Pause:
 
 ESC = Pause/Resume
 
-![alt text](Screenshot-MainMenu.png)
+![GameOver](Screenshot GameOver.png)
 
 
 🛠️ Built With
