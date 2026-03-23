@@ -13,6 +13,7 @@ Difficulty settings (Easy, Medium, Hard)
 2-player mode
 Pause menu
 Settings with volume control
+
 🎯 Controls
 Player 1:
 
@@ -29,9 +30,11 @@ ESC = Pause/Resume
 Unity 2022.x
 C#
 Universal Render Pipeline (URP)
+
 📥 Play the Game
 itch.io Link: https://didzisprocoder.itch.io/pi-bang-neon-edition
 GameJolt Link: https://gamejolt.com/games/Pi-Bang-Neon-Effect/1058642
+
 🎓 What I Learned
 This is my first game! I learned:
 
