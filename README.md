@@ -14,6 +14,8 @@ Difficulty settings (Easy, Medium, Hard)
 Pause menu
 Settings with volume control
 
+Screenshot MainMenu.png
+
 🎯 Controls
 Player 1:
 
