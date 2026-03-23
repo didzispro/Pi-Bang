@@ -20,6 +20,10 @@ Settings with volume control
 
 Main Menu
 
+Gameplay
+
+Game Over
+
 🎯 Controls
 
 Player 1:
