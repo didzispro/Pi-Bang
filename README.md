@@ -15,6 +15,7 @@ Pause menu
 Settings with volume control
 
 📸 Screenshots
+
 MainMenu.png
 
 🎯 Controls
