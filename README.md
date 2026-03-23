@@ -18,7 +18,7 @@ Settings with volume control
 
 📸 Screenshots
 
-![alt text](Screenshot MainMenu.png)
+![alt text](Screenshot-MainMenu.png)
 
 Gameplay
 
